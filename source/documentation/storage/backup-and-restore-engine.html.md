@@ -1,3 +1,6 @@
+Do we need this file?
+
+If so, review content.
 ---
 title: Backup And Restore Engine
 authors: alourie, didi, sandrobonazzola
@@ -20,4 +23,6 @@ This page is intended for collecting information and requirements for backing up
 *   [Ovirt-engine-backup](Ovirt-engine-backup)
 *   [User talk:Stkeimond/Backing Up And Restoring OVirt](User talk:Stkeimond/Backing Up And Restoring OVirt)
 *   [User:Adrian15/oVirt engine migration](User:Adrian15/oVirt engine migration)
+Did we check content in user pages (and subpages)?
+
 *   [oVirt Manager Backup Script](http://learnlinuxchennai.blogspot.it/2015/08/ovirt-manager-backup-script.html?m=1)

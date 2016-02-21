@@ -1,3 +1,5 @@
+Perhaps move the howto to its own page
+
 ---
 title: Ovirt-engine-backup
 category: feature
@@ -19,12 +21,13 @@ A simple utility to backup and restore a complete ovirt-engine environment.
 
 ## Owner
 
-*   Name: [Ofer Schreiber](User:oschreib)
-*   Email: <oschreib@redhat.com>
+*   Name: [Yedidyah Bar David](User:didi)
+*   Email: <didi@redhat.com>
 
 ## Current status
 
 *   Last updated: ,
+What about this? Does the new site show such things automatically? If so, we should remove them from all files
 
 ### Phase
 
@@ -52,6 +55,9 @@ This was done by adding a utility based on the same code used by engine-setup, t
 *   fail if a database exists and is not empty. In such a case a new empty database will be created named BASENAME_TIMESTAMP (e.g. engine_20150506120000), as does engine-setup in such a case, but unlike engine-setup, restore will be aborted asking the user to clean up and retry.
 
 **The text below applies to versions <= 3.5**, as well as to 3.6 if --provision-\*db is not used.
+Perhaps remove this part, now that 3.6 is released?
+
+Will users be able to see previous versions? Couldn't find how. If yes, maybe we can drop, or move to another page.
 
 Requirements:
 
@@ -88,7 +94,7 @@ Due to some misunderstanding about the previous points, it was sometimes suggest
        * engine-cleanup
        * restore
 
-This "almost" works. engine-setup/engine-cleanup on machineB create a user/database for us. What's missing? The password is generated randomly by setup, and so will be different on both machines and restore will not be able to connect. What can we do to continue and save us from manually doing all the work (2x create, edit pg_hba, restart postgresql)? Generally, two options:
+This "almost" works. engine-setup/engine-cleanup on machineB create a user/database for us. What's missing? The password is generated randomly by setup, and so will be different between machines, and restore will not be able to connect. What can we do to continue and save us from manually doing all the work (2x create, edit pg_hba, restart postgresql)? Generally, two options:
 
 1. change the password:
 
