@@ -95,11 +95,11 @@ Arch & Work in progress: [(PDF)](http://www.ovirt.org/w/images/b/be/Ovirt-arch-i
 
 oVirt Node: [(PDF)](http://www.ovirt.org/wp-content/uploads/2011/11/ovirt-node.pdf)
 
-oVirt API: ![](OVirt-API-CLI-SDK-20111102.pdf  "fig:OVirt-API-CLI-SDK-20111102.pdf ") (PDF)
+oVirt API: [OVirt-API-CLI-SDK-20111102.pdf](OVirt-API-CLI-SDK-20111102.pdf  "fig:OVirt-API-CLI-SDK-20111102.pdf ") (PDF)
 
 oVirt history and reports [(ODP)](http://www.ovirt.org/wp-content/uploads/2011/11/oVirt_history_and_reports.odp) & [(PDF)](http://www.ovirt.org/wp-content/uploads/2011/11/oVirt_history_and_reports.pdf)
 
-oVirt engine core ![](Ovirt-engine-core-20111102.odp "fig:Ovirt-engine-core-20111102.odp") & ![](Ovirt-engine-core-20111102.pdf "fig:Ovirt-engine-core-20111102.pdf")
+oVirt engine core [Ovirt-engine-core-20111102.odp](Ovirt-engine-core-20111102.odp "fig:Ovirt-engine-core-20111102.odp") & [Ovirt-engine-core-20111102.pdf](Ovirt-engine-core-20111102.pdf "fig:Ovirt-engine-core-20111102.pdf")
 
 ovirt-dev-setup [(ODP)](http://www.ovirt.org/wp-content/uploads/2011/11/ovirt-dev-setup.odp) & [(PDF)](http://www.ovirt.org/wp-content/uploads/2011/11/ovirt-dev-setup.pdf)
 

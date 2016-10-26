@@ -16,8 +16,8 @@ The original location for this page is [Workshop November 2011 - Day Two](Worksh
 
 *   8:00AM – 9:30AM : Topic – Engine Core ([Pad](http://etherpad.ubuntu.com/engine-core-ovirt-workshop-20111101), [Wiki](Engine Core - oVirt workshop November 2011), [ Slides])
     -   Slides
-        -   ![](Ovirt-engine-core-20111102.odp "fig:Ovirt-engine-core-20111102.odp")
-        -   ![](Ovirt-engine-core-20111102.pdf "fig:Ovirt-engine-core-20111102.pdf")
+        -   [Ovirt-engine-core-20111102.odp](Ovirt-engine-core-20111102.odp "fig:Ovirt-engine-core-20111102.odp")
+        -   [Ovirt-engine-core-20111102.pdf](Ovirt-engine-core-20111102.pdf "fig:Ovirt-engine-core-20111102.pdf")
     -   Topic sessions include presentation, interactive discussion & white boarding as needed
 *   9:30AM – 11:00AM : Topic – VDSM ([Pad](http://etherpad.ubuntu.com/vdsm-ovirt-workshop-20111101), [Wiki](VDSM - oVirt workshop November 2011), [ Slides ])
     -   Topic sessions include presentation, interactive discussion & white boarding as needed
@@ -43,7 +43,7 @@ The original location for this page is [Workshop November 2011 - Day Two](Worksh
 
 *   **Chess** - Storage (with projector)
 *   **Clue** - UI/GWT (with projector)
-*   **Rummikub** - History+Reports (with projector) - Slides: ![](oVirt_history_and_reports-20111102.odp "fig:oVirt_history_and_reports-20111102.odp"), ![](oVirt_history_and_reports-20111102.pdf "fig:oVirt_history_and_reports-20111102.pdf")
+*   **Rummikub** - History+Reports (with projector) - Slides: [oVirt_history_and_reports-20111102.odp](oVirt_history_and_reports-20111102.odp "fig:oVirt_history_and_reports-20111102.odp"), [oVirt_history_and_reports-20111102.pdf](oVirt_history_and_reports-20111102.pdf "fig:oVirt_history_and_reports-20111102.pdf")
 *   **Mouse Trap** - Guest tools / agent (with projector) - Slides: [pdf](http://www.ovirt.org/w/images/2/20/Ovirt-guest-agent.pdf), [odp](http://www.ovirt.org/w/images/c/c9/Ovirt-guest-agent.odp) ,[wiki](http://www.ovirt.org/wiki/Category:Ovirt_guest_agent)
 *   **Dominoes** - Governance ([Pad](http://etherpad.ubuntu.com/governance-breakout-ovirt-workshop-20111102), [Governance breakout at oVirt workshop November 2011](Governance breakout at oVirt workshop November 2011))
 *   **Uno** - Node ([Pad](http://etherpad.ubuntu.com/node-breakout-ovirt-workshop-20111101), [Node breakout at oVirt workshop November 2011](Node breakout at oVirt workshop November 2011))

@@ -44,7 +44,7 @@ For download:
 *   rest_api_routines.sh
 *   synch_env.sh
 
-Here: ![](Rest_api_files.tar.gz "fig:Rest_api_files.tar.gz")
+Here: [Rest_api_files.tar.gz](Rest_api_files.tar.gz "fig:Rest_api_files.tar.gz")
 
 GitHub sources:
 

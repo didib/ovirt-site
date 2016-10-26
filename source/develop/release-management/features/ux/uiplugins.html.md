@@ -742,11 +742,11 @@ Plugin source code is available from [sample UI plugin repository](#Sample_UI_pl
 
 ## Resources
 
-*   ![](Writing-ui-plugin-with-angularjs.pdf "Writing UI plugin with AngularJS") + ![](Writing-ui-plugin-with-angularjs-demo-files.tar.gz "Sample Code") (April 2014)
-*   ![](UI_Plugins_at_oVirt_Workshop_Sunnyvale_2013.pdf "UI Plugins at oVirt Workshop Sunnyvale") (January 2013)
-*   ![](UI_Plugins_PoC_Overview_2012.pdf "UI Plugins PoC Overview") (October 2012)
+*   [Writing-ui-plugin-with-angularjs.pdf](Writing-ui-plugin-with-angularjs.pdf "Writing UI plugin with AngularJS") + [Writing-ui-plugin-with-angularjs-demo-files.tar.gz](Writing-ui-plugin-with-angularjs-demo-files.tar.gz "Sample Code") (April 2014)
+*   [UI_Plugins_at_oVirt_Workshop_Sunnyvale_2013.pdf](UI_Plugins_at_oVirt_Workshop_Sunnyvale_2013.pdf "UI Plugins at oVirt Workshop Sunnyvale") (January 2013)
+*   [UI_Plugins_PoC_Overview_2012.pdf](UI_Plugins_PoC_Overview_2012.pdf "UI Plugins PoC Overview") (October 2012)
 *   [Original Design Notes](Features/UIPluginsOriginalDesignNotes)
-*   ![](Ui-plugin-figures.tar.gz "UI Plugin Figures")
+*   [Ui-plugin-figures.tar.gz](Ui-plugin-figures.tar.gz "UI Plugin Figures")
 
 ## UI plugin cheat sheet
 
