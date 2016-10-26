@@ -20,7 +20,7 @@ The oVirt Workshop was co-hosted with the KVM Forum during LinuxCon Europe. The 
 | **Time**      | **Title**                                     | **Presenter**  | **Slides**                                                                                                                    |
 |---------------|-----------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-11:00    | oVirt Overview and Demo                       | Andy Cathrow   |                                                                                                                               |
-| 11:00-12:00   | oVirt Node – Architecture, Design and Roadmap | Mike Burns     | [ Slides](Media:Ovirt-node-2012-11-07.pdf)                                                                         |
+| 11:00-12:00   | oVirt Node – Architecture, Design and Roadmap | Mike Burns     | [ Slides](Ovirt-node-2012-11-07.pdf)                                                                         |
 | 13:00-13:40   | oVirt High Level Architecture and Roadmap     | Itamar Heim    | [ Architecture](Media:Heim-ovirt-arch-barcelona.pdf) [ Roadmap](Media:Heim-ovirt-roadmap-barcelona.pdf) |
 | 13:40-14:20   | Deep Dive Features: Network                   | Simon Grinberg |
 | 14:20-15:00   | Deep Dive Features: Storage                   | Andy Cathrow   |
