@@ -28,7 +28,7 @@ and the [about oVirt](about oVirt) page.
 [Installation guide](http://www.ovirt.org/documentation/install-guide/Installation_Guide/)
 is available for updated and detailed installation instructions.
 
-### Fedora / CentOS / RHEL
+## Fedora / CentOS / RHEL
 
 
 
@@ -51,7 +51,7 @@ to execute:
 
 
 
-### oVirt Hosted Engine
+## oVirt Hosted Engine
 
 If you're going to install oVirt as Hosted Engine on a clean system please
 follow [Hosted_Engine_Howto#Fresh_Install](Hosted_Engine_Howto#Fresh_Install)
@@ -87,7 +87,7 @@ include collectd. Either use `includepkgs` and add those you need, or use
 ## What's New in 4.1.1 Async release?
 On April 6th 2017 the oVirt team issued an async release including the following fixes:
 
-#### oVirt Engine
+### oVirt Engine
  - [BZ 1429534](https://bugzilla.redhat.com/1429534) <b>[scale] - tasks rejection, causing to corrupted monitoring.</b><br>
  - [BZ 1434941](https://bugzilla.redhat.com/1434941) <b>Previewing 3.5 snapshot with memory on 4.1 setup should not be allowed</b><br>
  - [BZ 1438260](https://bugzilla.redhat.com/1438260) <b>Failed to create VM from template with block-based raw disk as server</b><br>
@@ -95,16 +95,16 @@ On April 6th 2017 the oVirt team issued an async release including the following
  - [BZ 1417518](https://bugzilla.redhat.com/1417518) <b>[HE] high availability compromised due to duplicate spm id</b><br>
  - [BZ 1417217](https://bugzilla.redhat.com/1417217) <b>SR-IOV vNIC unplugged after migration completed</b><br>
 
-#### VDSM
+### VDSM
 
  - [BZ 1426440](https://bugzilla.redhat.com/1426440) <b>During Live Merge, clear information about top/base/active volumes is not provided by INFO level logging</b><br>
 
-#### oVirt Engine Metrics
+### oVirt Engine Metrics
 
  - [BZ 1434573](https://bugzilla.redhat.com/1434573) <b>Add apache collectd plugin on engine machine</b><br>Feature: <br>The Apache collectd plugin configurations were updated to the fluentd configuration file.<br>It will for now require updating the Apache instance name, url, user and password manually.<br><br>In the next version we plan to populate this automatically.<br><br>Reason: <br>To enable the user to monitor the Apache performance metrics in the remote metrics store.<br><br>Result:
  - [BZ 1434570](https://bugzilla.redhat.com/1434570) <b>Add postgresql collectd plugin on engine machine</b><br>Feature: <br>The Postgresql collectd plugin configurations were updated to the fluentd configuration file.<br>It will, for now, require updating the Postgresql database name, host, user and password manually.<br><br>In the next version we plan to populate this automatically.<br><br>Reason: <br>To enable the user to monitor the Postgresql performance metrics in the remote metrics store.<br><br>Result:
 
-#### imgbased
+### imgbased
 
  - [BZ 1433668](https://bugzilla.redhat.com/1433668) <b>The file modification in /etc of middle layer can not be updated to latest layer after upgrade multiple times</b><br>
  - [BZ 1434816](https://bugzilla.redhat.com/1434816) <b>Selinux issue blocks running VMs on 4.1 ngn after update from 4.0 ngn as virtlogd fails to start</b><br>
@@ -112,7 +112,7 @@ On April 6th 2017 the oVirt team issued an async release including the following
  - [BZ 1432385](https://bugzilla.redhat.com/1432385) <b>'imgbase layout' takes very long time to complete on rhv-h hypervisor with a large number of LUNs attached</b><br>
  - [BZ 1432359](https://bugzilla.redhat.com/1432359) <b>Default thin pool metadata size in RHV-H is less and utilization can reach 100%</b><br>
 
-#### oVirt Engine DWH
+### oVirt Engine DWH
  - [BZ 1404812](https://bugzilla.redhat.com/1404812) <b>dwhd sometimes does not update the engine db before stopping</b><br>
 
 ### oVirt Cockpit Plugin
